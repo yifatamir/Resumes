@@ -1,0 +1,82 @@
+Yifat Amir
+ (408) 489-6894 | yifatamir@berkeley.edu | Berkeley, C.A.
+EDUCATION
+UNIVERSITY OF CALIFORNIA, BERKELEY
+Bachelors in Computer Science and Economics (double major), Junior, GPA: 3.67
+Spring 2016 Courses: Probability Theory and Combinatorics, Computer Architecture, Econometric Analysis
+Past Courses: Algorithms & Intractable Problems, Discrete Math & Probability Theory, Data Structures & Algorithms, Interpretation of Computer Programs, Behavioral Economics, Natural Resource Economics, Industrial Organization, Intermediate Microeconomics, Macroeconomics, Multivariable Calculus, Linear Algebra & Differential Equations, Probability & Statistics.
+
+SKILLS & QUALIFICATIONS
+* Programming languages: Python, Java, J.S., Scheme, SQL
+* Experienced with the Git workflow
+* Experienced with Adobe Flash, Premiere, and Soundbooth
+* Experienced with teaching, tutoring, and public speaking
+* Experienced with developing educational curricula
+* Excellent project management skills
+* Languages spoken: English, Hebrew, Spanish* Past individually completed class projects: 
+1. Implemented Git (a version control software) in Java: supports 15 commands including branch, merge, and rebase.
+2. Created a general purpose Scheme interpreter in Python: uses a recursive read-eval-print loop; supports special forms.
+WORK EXPERIENCE
+BEAUTY AND JOY OF COMPUTING (B.J.C.), BERKELEY, CA 
+Snap! Autograder Developer, May 2015 – Present
+* Developed a suite of autograding tools in JavaScript for “Snap!”, a visual drag-and-drop programming language.
+* Mapped and categorized all lab exercises, identifying unique problems that pose non-traditional grading challenges.
+* Assisted in pedagogical planning for BJCx, an international online introductory computer science course on edX (12,000+ students).
+
+COMPUTER SCIENCE DEPARTMENT OF U.C. BERKELEY, BERKELEY, CA 
+C.S. 10 Reader, Lab Assistant, August 2014 – Present
+* Developed rubrics for and graded homework assignments, programming projects, and exams.
+* Helped students acquire computer science skills through assisting them in completing programming lab exercises.
+* Participated in planning and leading weekly discussion sections as a T.A. in Training.
+* Assisted in lab content development by creating lab quizzes and solution guides.
+
+RESIDENTIAL SUSTAINABILITY PROGRAM OF U.C. BERKELEY, BERKELEY, CA 
+Project Coordinator, April 2014 – May 2015
+* Planned and implemented educational campaigns and projects to promote sustainable living practices in the Residence Halls.
+* Designed, led, and analyzed waste diversion audits in the residence halls in order to create customized educational curricula.
+* Oversaw evaluation and assessment procedures of campaigns and programs.
+
+AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE (A.I.P.A.C.), SAN FRANCISCO, CA; WASHINGTON D.C. 
+Summer Intern, Summer 2014
+* Assisted in organizing two national student conferences in Washington D.C. and led a briefing event for political interns.
+* Met with senators, representatives, and other policy-makers on Capitol Hill.
+* Enlarged the regional donor base and boosted community outreach through event planning and direct communications.
+* Prior experience: Bay Area Student Delegate at Policy Conference 2014 & 2015, Northern California Summit 2013, Schustermann Advocacy Institute High School Summit 2011.
+
+MATH TUTORING (SELF-EMPLOYED), SAN JOSE, CA 
+Private Math Tutor, October 2011 – November 2014
+* Tutored up to nine students (grades 2-12) weekly, providing practice problems, creating quizzes, and reinforcing material.
+
+GLOBAL HEALTH RESEARCH FOUNDATION (G.H.R.F.), STANFORD, CA 
+Summer Intern, Patient Outcomes and Environmental Monitoring System (P.O.E.M.S.) Project, Summer 2012 
+* Designed the user interface for an Android mobile application which improves healthcare data collection and retrieval in Bhutan. Data includes healthcare records and environmental sensory readings. The project has been deployed by the ministry of Bhutan.
+* Scripted, storyboarded, filmed, and edited three user-specific tutorial videos for rangers, healthcare workers, and general users.
+* Received the Global Service Award 2012 for my contributions.
+LEADERSHIP EXPERIENCE
+ISRAELI CULTURE CLUB (“MISHELANU”), BERKELEY, CA 
+President, Communications and Marketing Chair, February 2015 – Present
+* Plans and leads social, cultural, and educational events for Israeli and Israeli-American students in Berkeley.
+
+CAL ALUMNI STUDENT ASSOCIATION (CASA), BERKELEY, CA 
+Venue Coordinator, September 2013 – May 2014
+* Booked and organized venues for large-scale networking events connecting Cal alumni to current student leaders on campus and for the Overnight Stay Program (OSP), which presents Cal to hundreds of prospective freshmen.
+* Participated in leadership and professional development workshops.
+
+PUEBLO INGLES, CORDOBA, SPAIN 
+English Teacher, Summer 2012 
+* Taught conversational English to Spanish teens through language-immersive programming and one-on-one lessons.
+
+THE DAVID PROJECT FELLOWSHIP, BERKELEY, CA 
+Student Fellow, November 2013-Present
+* Engaged numerous students from diverse communities on campus on a weekly basis in positive dialogue about Israel.
+* Attended leadership trainings with Hillel/campus faculty.
+SCHOLARSHIPS & AWARDS
+* IBM Thomas J. Watson Memorial Scholarship 2014-2017
+* Saratoga Rotary Club Scholarship 2013
+* Kiwanis Club of Los Gatos Scholarship 2013
+* Susie Nagpal Scholarship for Promising Leaders 2013
+* Saratoga High School Community Service Award 2013* Cal Alumni Ass. Leadership Scholarship 2013, 2014, 2015
+* Horace M. Albright Scholarship 2013
+* District Teacher’s Association Scholarship 2013
+* Saratoga High School Graduate with High Honors 2013
+* Shonk Memorial Scholarship 2013
