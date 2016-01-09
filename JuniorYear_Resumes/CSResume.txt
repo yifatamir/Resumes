@@ -8,28 +8,27 @@ Completed courses include: Algorithms & Intractable Problems, Discrete Math & Pr
 
 SKILLS & QUALIFICATIONS
 * Programming languages: Python, Java, J.S., Scheme, SQL
-* Experienced with the Git workflow
-* Excellent project management skills
+* Experienced with Git and collaborative development
+* Excellent project management and communication skills
 * Languages spoken: English, Hebrew, Spanish* Past individually completed class projects: 
 1. Implemented Git (a version control software) in Java: supports 15 commands including branch, merge, and rebase.
 2. Created a general purpose Scheme interpreter in Python: uses a recursive read-eval-print loop; supports special forms.
 WORK EXPERIENCE
 BEAUTY AND JOY OF COMPUTING (B.J.C.), BERKELEY, CA 
-Snap! Autograder Developer, May 2015 – Present
+Developer, May 2015 – Present
 * Developed a suite of autograding tools in JavaScript for “Snap!”, a visual drag-and-drop programming language.
-* Mapped and categorized all lab exercises, identifying unique problems that pose non-traditional grading challenges.
-* Assisted in pedagogical planning for BJCx, an international online introductory computer science course on edX (12,000+ students).
+* Implemented autograder software for BJCx, identifying and addressing lab exercises that pose non-traditional grading challenges. B.J.C. is an AP C.S. Principles curriculum endorsed by the College Board and offered internationally on edX (12,000+ students).
 
 COMPUTER SCIENCE DEPARTMENT OF U.C. BERKELEY, BERKELEY, CA 
 C.S. 10 Reader, Lab Assistant, August 2014 – Present
 * Developed rubrics for and graded homework assignments, programming projects, and exams.
 * Helped students acquire programming skills through assisting during laboratory hours.
-* Assisted in lab content development by creating lab quizzes and solution guides.
+* Assisted in pedagogical planning and lab content development.
 
 AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE (A.I.P.A.C.), SAN FRANCISCO, CA; WASHINGTON D.C. 
 Summer Intern, Summer 2014
-* Assisted in organizing a national student conference in Washington D.C. and led a briefing event for Bay Area political interns.
-* Met with senators, representatives, and other policy-makers on Capitol Hill.
+* Assisted in organizing a national student conference in Washington D.C. and led a briefing event for Bay Area interns.
+* Acquired leadership and communication skills; met with senators, representatives, and other policy-makers on Capitol Hill.
 
 GLOBAL HEALTH RESEARCH FOUNDATION (G.H.R.F.), STANFORD, CA 
 Summer Intern, Patient Outcomes and Environmental Monitoring System (P.O.E.M.S.) Project, Summer 2012 
