@@ -4,7 +4,7 @@ EDUCATION
 UNIVERSITY OF CALIFORNIA, BERKELEY
 Bachelors in Computer Science and Economics (double major), Junior, GPA: 3.67
 Spring 2016 courses: Probability Theory and Combinatorics, Computer Architecture (languages: C, MIPS), Econometric Analysis
-Completed courses include: Algorithms & Intractable Problems, Discrete Math & Probability Theory, Data Structures & Algorithms, Behavioral Economics, Natural Resource Economics, Industrial Organization, Multivariable Calculus, and Linear Algebra.
+Completed courses include: Algorithms & Intractable Problems, Discrete Math & Probability Theory, Data Structures & Algorithms, Statistics, Behavioral Economics, Natural Resource Economics, Industrial Organization, Multivariable Calculus, and Linear Algebra.
 
 SKILLS & QUALIFICATIONS
 * Programming languages: Python, Java, J.S., Scheme, SQL
