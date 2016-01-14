@@ -2,17 +2,16 @@ Yifat Amir
  (408) 489-6894 | yifatamir@berkeley.edu | Berkeley, C.A.
 EDUCATION
 UNIVERSITY OF CALIFORNIA, BERKELEY
-Bachelors in Computer Science and Economics (double major), Junior, GPA: 3.67
-Spring 2016 courses: Probability Theory and Combinatorics, Computer Architecture (languages: C, MIPS), Econometric Analysis
-Completed courses include: Algorithms & Intractable Problems, Discrete Math & Probability Theory, Data Structures & Algorithms, Statistics, Behavioral Economics, Natural Resource Economics, Industrial Organization, Multivariable Calculus, and Linear Algebra.
+Bachelors in Economics and Computer Science (double major), Junior, GPA: 3.67
+Spring 2016 courses: Econometric Analysis, Probability Theory and Combinatorics, Computer Architecture 
+Completed courses include: Behavioral Economics, Natural Resource Economics, Industrial Organization & Public Policy, Statistics, Microeconomics, Macroeconomics, Principles of Business, Algorithms, Data Structures, Multivariable Calculus, and Linear Algebra.
 
 SKILLS & QUALIFICATIONS
 * Programming languages: Python, Java, J.S., Scheme, SQL
-* Experienced with Git and collaborative development
-* Excellent project management and communication skills
-* Languages spoken: English, Hebrew, Spanish* Past individually completed class projects: 
-1. Implemented Git (a version control software) in Java: supports 15 commands including branch, merge, and rebase.
-2. Created a general purpose Scheme interpreter in Python: uses a recursive read-eval-print loop; supports special forms.
+* Experienced with Excel, PowerPoint, Salesforce.com
+* Languages spoken: English, Hebrew, Spanish* Excellent project management and public speaking skills
+* Strong intellectual curiosity, quick learner
+* Resourceful, punctual, collaborative, and communicative
 WORK EXPERIENCE
 BEAUTY AND JOY OF COMPUTING (B.J.C.), BERKELEY, CA 
 Software Developer, May 2015 – Present
@@ -25,15 +24,17 @@ C.S. 10 Undergraduate Student Instructor, Reader, Lab Assistant, August 2014 – P
 * Developed rubrics for and graded homework assignments, programming projects, and exams.
 * Helped students acquire programming skills through assisting during laboratory hours.
 
+RESIDENTIAL SUSTAINABILITY PROGRAM OF U.C. BERKELEY, BERKELEY, CA 
+Project Coordinator, April 2014 – May 2015
+* Designed, led, and analyzed waste diversion audits in the residence halls in order to create customized educational curricula.
+* Oversaw evaluation and assessment procedures of campaigns and programs.
+
 AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE (A.I.P.A.C.), SAN FRANCISCO, CA; WASHINGTON D.C. 
 Summer Intern, Summer 2014
 * Assisted in organizing a national student conference in Washington D.C. and led a briefing event for Bay Area interns.
 * Acquired leadership and communication skills; met with senators, representatives, and other policy-makers on Capitol Hill.
+* Enlarged the regional donor base and boosted community outreach through event planning and direct communications.
 
-GLOBAL HEALTH RESEARCH FOUNDATION (G.H.R.F.), STANFORD, CA 
-Summer Intern, Patient Outcomes and Environmental Monitoring System (P.O.E.M.S.) Project, Summer 2012 
-* Designed wireframes for the U.I. of an Android mobile application which improves data collection and retrieval in Bhutan. Data includes healthcare records and environmental sensory readings. [The project has been deployed by the ministry of Bhutan.]
-* Scripted, storyboarded, filmed, and edited three user-specific tutorial videos for rangers, healthcare workers, and general users.
 LEADERSHIP EXPERIENCE
 ISRAELI CULTURE CLUB (“MISHELANU”), BERKELEY, CA 
 President, Communications and Marketing Chair, February 2015 – Present
